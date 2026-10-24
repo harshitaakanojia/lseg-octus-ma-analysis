@@ -4,7 +4,7 @@ LSEG–Octus Acquisition Analysis
 Project: M&A Transaction Analysis
 Transaction: London Stock Exchange Group's proposed acquisition of Octus
 Announcement Date: 22 October 2026
-Status: Independent research project
+Status: Independent research project 
 
 1. Project Overview
 This project examines London Stock Exchange Group's proposed acquisition of Octus, a provider of credit intelligence, data and workflow solutions.
